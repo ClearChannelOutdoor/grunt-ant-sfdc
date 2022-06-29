@@ -284,6 +284,16 @@
     "folder": "flexipages",
     "allowStar": true
   },
+  "duplicaterule": {
+    "xmlType": "DuplicateRule",
+    "folder": "duplicaterules",
+    "allowStar": true
+  },
+  "matchingrule": {
+    "xmlType": "MatchingRules",
+    "folder": "matchingrules",
+    "allowStar": true
+  },
   "permissionset": {
     "xmlType": "PermissionSet",
     "folder": "permissionsets",
