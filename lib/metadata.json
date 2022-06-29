@@ -286,12 +286,12 @@
   },
   "duplicaterule": {
     "xmlType": "DuplicateRule",
-    "folder": "duplicaterules",
+    "folder": "duplicateRules",
     "allowStar": true
   },
   "matchingrule": {
     "xmlType": "MatchingRules",
-    "folder": "matchingrules",
+    "folder": "matchingRules",
     "allowStar": true
   },
   "permissionset": {
