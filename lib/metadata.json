@@ -284,6 +284,11 @@
     "folder": "flexipages",
     "allowStar": true
   },
+  "contentassets": {
+    "xmlType": "ContentAsset",
+    "folder": "assets",
+    "allowStar": true
+  },
   "duplicaterule": {
     "xmlType": "DuplicateRule",
     "folder": "duplicateRules",
